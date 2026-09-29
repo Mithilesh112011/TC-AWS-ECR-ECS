@@ -2,7 +2,7 @@ terraform {
   required_version = ">= 1.13.3"
 
   cloud {
-    organization = "REPLACE_WITH_TFC_ORGANIZATION"
+    organization = "TC-AWS-ECR-ECS"
 
     workspaces {
       name = "ecs-ecr-deployment"
