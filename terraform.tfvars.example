@@ -1,0 +1,4 @@
+aws_region       = "us-east-1"
+app_name         = "ecs-demo"
+github_repository = "YOUR_GITHUB_OWNER/YOUR_REPOSITORY"
+github_branch     = "main"
